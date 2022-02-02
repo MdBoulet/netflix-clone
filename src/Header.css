@@ -1,0 +1,14 @@
+.header {
+    height: 80px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.header__black {
+    background-color: #111;
+}
+
+.header > img{
+    height: 80px;
+}
