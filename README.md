@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Netflix Clone réalisé avec React JS, TMDB
 
 ## Available Scripts
 
